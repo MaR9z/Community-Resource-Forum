@@ -13,5 +13,6 @@ export default async function HomePage() {
         />
       ))}
     </div>
+    <p>Test</p>
   );
 }
